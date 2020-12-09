@@ -51,7 +51,7 @@ static XPWidgetID main_win = NULL;
 #define	MAIN_WINDOW_HEIGHT	(MARGIN + 10 * BUTTON_HEIGHT + MARGIN)
 
 static struct {
-	XPWidgetID	chinese;
+	XPWidgetID	farsi;
 	XPWidgetID	english;
 	XPWidgetID	french;
 	XPWidgetID	german;
